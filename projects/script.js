@@ -57,7 +57,7 @@ const ViewProject = {
             </button>
   
             <div class="text-center mb-16">
-              <h1 :class="{'text-gray-900': !isDarkMode, 'text-white': isDarkMode}" class="text-5xl font-bold mb-2">Aditya Dwi Nugrohro</h1>
+              <h1 :class="{'text-gray-900': !isDarkMode, 'text-white': isDarkMode}" class="text-5xl font-bold mb-2">Aditya Dwi Nugroho</h1>
               <p :class="{'text-gray-600': !isDarkMode, 'text-gray-400': isDarkMode}" class="text-xl">Frontend Mentor</p>
             </div>
   
